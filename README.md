@@ -28,7 +28,7 @@ A Flutter app that displays real-time electricity carbon intensity and power pro
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/lijealso/electricity.git
    cd electricity
    ```
 2. **Install dependencies:**
