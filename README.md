@@ -13,7 +13,8 @@ A Flutter app that displays real-time electricity carbon intensity and power pro
 
 ## Screenshots
 
-_Add screenshots here if you wish_
+![Main Screen](Screenshot1.jpg)
+![Breakdown Chart](Screenshot2.jpg)
 
 ## Getting Started
 
